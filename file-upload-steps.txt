@@ -1,0 +1,5 @@
+1. Install multer. - Done //Multer is a node.js middleware for handling multipart/form-data.
+2. Change in View. - Done
+3. Middleware to handle files.
+4. Apply that Middleware.
+5. Update Controller to update of images.
